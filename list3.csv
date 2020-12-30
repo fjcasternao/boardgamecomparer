@@ -1,0 +1,561 @@
+price,normalPrice,discount,discount_percentage,url,name
+24.95,49.9488,"25,00 €",-2.500%,https://jugamosotra.com/juegos/4665-juego-de-tronos-el-trono-de-hierro.html,Juego de Tronos: El Trono de Hierro
+59.95,99.946,"40,00 €",-4.000%,https://jugamosotra.com/2-jugadores/989-star-wars-armada.html,Star Wars : Armada
+35.95,60.0039,"24,05 €",-2.405%,https://jugamosotra.com/3-5-jugadores/2748-ponzi-scheme.html,Ponzi Scheme
+12.95,60.0039,"47,05 €",-4.705%,https://jugamosotra.com/3-5-jugadores/5652-olympus.html,Olympus
+17.95,54.9461,"37,00 €",-3.700%,https://jugamosotra.com/juegos/5651-el-favor-del-faraon.html,El Favor del Faraón
+32.94,79.9447,"47,00 €",-4.700%,https://jugamosotra.com/3-5-jugadores/5650-immortals.html,Immortals
+19.94,34.9932,"15,05 €",-1.505%,https://jugamosotra.com/2-6-jugadores/5649-alta-tension.html,Alta Tensión
+19.94,39.990499,"20,05 €",-2.005%,https://jugamosotra.com/juegos/5648-tuki.html,Tuki
+6.95,12.9954,"6,05 €",-605%,https://jugamosotra.com/juegos/5647-5211.html,5211
+15.95,29.9959,"14,05 €",-1.405%,https://jugamosotra.com/juegos/5646-orbis.html,Orbis
+19.94,39.990499,"20,05 €",-2.005%,https://jugamosotra.com/juegos/5645-nictofobia.html,Nictofobia
+16.95,35.9491,"19,00 €",-1.900%,https://jugamosotra.com/1-4-jugadores/5644-solenia.html,Solenia
+9.94,19.9408,"10,00 €",-1.000%,https://jugamosotra.com/inicio/5643-rrr.html,RRR
+10.95,24.9986,"14,05 €",-1.405%,https://jugamosotra.com/2-4-jugadores/5642-rookie-heroes.html,Rookie Heroes
+4.95,9.9462,"5,00 €",-500%,https://jugamosotra.com/2-8-jugadores-/5641-pares.html,Pares
+14.94,34.9448,"20,00 €",-2.000%,https://jugamosotra.com/juegos/5640-santiago.html,Santiago
+49.95,99.946,"50,00 €",-5.000%,https://jugamosotra.com/2-6-jugadores/5639-rum-bones.html,Rum & Bones
+16.94,34.9448,"18,00 €",-1.800%,https://jugamosotra.com/juegos/5638-bomb-squad.html,Bomb Squad
+11.94,24.9381,"13,00 €",-1.300%,https://jugamosotra.com/juegos/5637-snow-time.html,Snow Time
+29.94,59.9434,"30,00 €",-3.000%,https://jugamosotra.com/2-4-jugadores/5636-arcadia-quest-mas-alla-de-la-tumba.html,Arcadia Quest: Más Allá de la Tumba
+31.94,64.9407,"33,00 €",-3.300%,https://jugamosotra.com/2-4-jugadores/5635-arcadia-quest-jinetes.html,Arcadia Quest Jinetes
+29.94,59.9434,"30,00 €",-3.000%,https://jugamosotra.com/2-4-jugadores/5634-arcadia-quest-mascotas.html,Arcadia Quest Mascotas
+34.95,74.9958,"40,05 €",-4.005%,https://jugamosotra.com/1-4-jugadores/5633-colonos-de-marte.html,Colonos de Marte
+46.95,99.946,"53,00 €",-5.300%,https://jugamosotra.com/juegos/5632-journey-la-ira-de-los-demonios.html,Journey: La ira de los demonios
+19.94,39.9421,"20,00 €",-2.000%,https://jugamosotra.com/2-4-jugadores/5631-the-river.html,The River
+14.95,29.9475,"15,00 €",-1.500%,https://jugamosotra.com/juegos/5630-kero.html,Kero
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/juegos/5629-magic-maze-maxima-seguridad.html,Magic Maze: Máxima Seguridad
+7.19,11.9911,"4,80 €",-480%,https://jugamosotra.com/juegos/5628-magic-maze-roles-ocultos.html,Magic Maze: Roles Ocultos
+21.95,29.9475,"8,00 €",-800%,https://jugamosotra.com/juegos/4861-dual-powers-revolucion-1917.html,Dual Powers: Revolución 1917
+38.94,64.9891,"26,05 €",-2.605%,https://jugamosotra.com/2-5-jugadores/1127-belfort-edicion-limitada.html,Belfort: Edición Limitada
+36.94,62.9442,"26,00 €",-2.600%,https://jugamosotra.com/2-4-jugadores/3073-yokohama.html,Yokohama
+29.95,49.9972,"20,05 €",-2.005%,https://jugamosotra.com/2-4-jugadores/3369-gold-west-edicion-limitada.html,Gold West Edición Limitada
+24.95,49.9488,"25,00 €",-2.500%,https://jugamosotra.com/2-4-jugadores/5585-genios-victorianos.html,Genios Victorianos
+24.95,41.9991,"17,05 €",-1.705%,https://jugamosotra.com/juegos/5584-el-oraculo-de-delfos.html,El Oráculo de Delfos
+27.94,39.942099,"12,00 €",-1.200%,https://jugamosotra.com/juegos/5583-la-guerra-de-los-mundos-nueva-oleada.html,La Guerra de los Mundos: Nueva Oleada
+38.95,54.9461,"16,00 €",-1.600%,https://jugamosotra.com/1-5-jugadores/4262-manhattan-project-energy-empire.html,MANHATTAN PROJECT: ENERGY EMPIRE
+36.95,52.9496,"16,00 €",-1.600%,https://jugamosotra.com/2-4-jugadores/4221-los-pioneros.html,Los Pioneros
+31.95,44.9999,"13,05 €",-1.305%,https://jugamosotra.com/juegos/4622-abyss-castellano.html,Abyss (Castellano)
+27.95,39.9542,"12,00 €",-1.200%,https://jugamosotra.com/juegos-para-grupos-de-jugadores/3765-asesinato-en-hong-kong.html,Asesinato en Hong Kong
+17.95,29.9959,"12,05 €",-1.205%,https://jugamosotra.com/juegos/5563-cats.html,Cats
+15.94,27.9389,"12,00 €",-1.200%,https://jugamosotra.com/juegos/5562-orbital.html,Orbital
+14.95,24.9986,"10,05 €",-1.005%,https://jugamosotra.com/juegos/5561-senators.html,Senators
+9.95,15.9478,"6,00 €",-600%,https://jugamosotra.com/juegos/5560-lusitania.html,Lusitania
+8.95,12.947,"4,00 €",-400%,https://jugamosotra.com/juegos/5559-a-todo-tren.html,A todo Tren
+11.94,23.9943,"12,05 €",-1.205%,https://jugamosotra.com/2-4-jugadores/1567-ylandyss.html,Ylandyss
+11.95,20.0013,"8,05 €",-805%,https://jugamosotra.com/2-5-jugadores/5558-1920-wall-street-extras.html,1920 Wall Street
+11.95,18.0048,"6,05 €",-605%,https://jugamosotra.com/2-jugadores/5557-1911-amundsen-vs-scott-segunda-edicion.html,1911 Amundsen vs Scott
+9.94,19.9408,"10,00 €",-1.000%,https://jugamosotra.com/juegos/5553-aton.html,Aton
+19.94,44.9394,"25,00 €",-2.500%,https://jugamosotra.com/juegos/5552-eketorp.html,Eketorp
+19.94,39.942099,"20,00 €",-2.000%,https://jugamosotra.com/juegos/5551-aqua-romana.html,Aqua Romana
+17.94,34.9448,"17,00 €",-1.700%,https://jugamosotra.com/juegos/5550-alhambra-new-york.html,Alhambra New York
+14.94,39.942099,"25,00 €",-2.500%,https://jugamosotra.com/juegos/5549-der-palast-von-alhambra-sonderedition-bonn.html,Der Palast von Alhambra - Sonderedition Bonn
+14.95,38.949899,"24,00 €",-2.400%,https://jugamosotra.com/juegos/5548-dreams.html,Dreams
+6.95,12.947,"6,00 €",-600%,https://jugamosotra.com/juegos/5547-don.html,Don
+9.94,39.942099,"30,00 €",-3.000%,https://jugamosotra.com/juegos/5546-maharani.html,Maharani
+9.94,22.9416,"13,00 €",-1.300%,https://jugamosotra.com/juegos/5544-tales-games-baba-yaga.html,Tales & Games: Baba Yaga
+19.94,45.9437,"26,00 €",-2.600%,https://jugamosotra.com/juegos/5543-onward-to-venus.html,Onward to Venus
+9.95,29.9959,"20,05 €",-2.005%,https://jugamosotra.com/1-4-jugadores/5541-colonos-del-imperio-atlantes.html,Colonos del Imperio Atlantes
+6.94,14.9435,"8,00 €",-800%,https://jugamosotra.com/1-4-jugadores/488-colonos-del-imperio-por-que-tanto-odio.html,Colonos del Imperio ¿Por qué tanto odio?
+29.95,49.9488,"20,00 €",-2.000%,https://jugamosotra.com/2-jugadores/5539-blue-moon-legends.html,Blue Moon Legends
+29.95,49.9488,"20,00 €",-2.000%,https://jugamosotra.com/2-5-jugadores/5527-altiplano.html,Altiplano
+4.94,19.9408,"15,00 €",-1.500%,https://jugamosotra.com/juegos/5526-la-cima-yeti.html,Yeti + promo
+0,0,,,https://jugamosotra.com/juegos/5524-ofertas-bajo-demanda.html,OFERTAS BAJO DEMANDA 4
+9.95,24.9986,"15,05 €",-1.505%,https://jugamosotra.com/juegos/5523-mafia-de-cuba.html,MAFIA DE CUBA
+34.95,77.9482,"43,00 €",-4.300%,https://jugamosotra.com/2-4-jugadores/5522-burano.html,Burano
+0,0,,,https://jugamosotra.com/juegos/5521-ofertas-bajo-demanda.html,OFERTAS BAJO DEMANDA 3
+24.94,39.990499,"15,05 €",-1.505%,https://jugamosotra.com/juegos/5520-barony.html,Barony
+12.95,49.9488,"37,00 €",-3.700%,https://jugamosotra.com/2-4-jugadores/5519-coaster-park.html,Coaster Park
+12.95,29.9475,"17,00 €",-1.700%,https://jugamosotra.com/juegos/5518-reconquista.html,Reconquista
+99.99,279.7883,"179,80 €",-17.980%,https://jugamosotra.com/2-4-jugadores/5517-4-x-cry-havoc-castellano.html,4 x Cry Havoc (Castellano)
+0,0,,,https://jugamosotra.com/juegos/5516-ofertas-bajo-demanda.html,OFERTAS BAJO DEMANDA 2
+14.95,29.9475,"15,00 €",-1.500%,https://jugamosotra.com/3-8-jugadores/5515-noviembre-rojo-edicion-revisada.html,Noviembre Rojo Edición Revisada
+7.94,19.9408,"12,00 €",-1.200%,https://jugamosotra.com/juegos/5514-illusio.html,Illusio
+7.94,19.9408,"12,00 €",-1.200%,https://jugamosotra.com/juegos/5513-fairy-tale.html,Fairy Tale
+24.94,64.9407,"40,00 €",-4.000%,https://jugamosotra.com/juegos/5512-moto-grand-prix.html,Moto Grand Prix
+24.94,59.9434,"35,00 €",-3.500%,https://jugamosotra.com/juegos/5511-twilight-imperium-rex.html,Twilight Imperium Rex
+14.94,39.942099,"25,00 €",-2.500%,https://jugamosotra.com/1-4-jugadores/5510-colonos-del-imperio.html,Colonos del Imperio
+24.94,69.938,"45,00 €",-4.500%,https://jugamosotra.com/juegos/5509-the-world-of-smog-al-servicio-de-su-majestad.html,THE WORLD OF SMOG: AL SERVICIO DE SU MAJESTAD
+0,0,,,https://jugamosotra.com/juegos/4535-ofertas-bajo-demanda.html,OFERTAS BAJO DEMANDA 1
+19.95,24.9986,"5,05 €",-505%,https://jugamosotra.com/2-10-jugadores/5501-flick-em-up-dead-of-winter.html,Flick'em Up: Dead of Winter
+24.95,49.9488,"25,00 €",-2.500%,https://jugamosotra.com/juegos/4665-juego-de-tronos-el-trono-de-hierro.html,Juego de Tronos: El Trono de Hierro
+59.95,99.946,"40,00 €",-4.000%,https://jugamosotra.com/2-jugadores/989-star-wars-armada.html,Star Wars : Armada
+35.95,60.0039,"24,05 €",-2.405%,https://jugamosotra.com/3-5-jugadores/2748-ponzi-scheme.html,Ponzi Scheme
+12.95,60.0039,"47,05 €",-4.705%,https://jugamosotra.com/3-5-jugadores/5652-olympus.html,Olympus
+17.95,54.9461,"37,00 €",-3.700%,https://jugamosotra.com/juegos/5651-el-favor-del-faraon.html,El Favor del Faraón
+32.94,79.9447,"47,00 €",-4.700%,https://jugamosotra.com/3-5-jugadores/5650-immortals.html,Immortals
+19.94,34.9932,"15,05 €",-1.505%,https://jugamosotra.com/2-6-jugadores/5649-alta-tension.html,Alta Tensión
+19.94,39.990499,"20,05 €",-2.005%,https://jugamosotra.com/juegos/5648-tuki.html,Tuki
+6.95,12.9954,"6,05 €",-605%,https://jugamosotra.com/juegos/5647-5211.html,5211
+15.95,29.9959,"14,05 €",-1.405%,https://jugamosotra.com/juegos/5646-orbis.html,Orbis
+19.94,39.990499,"20,05 €",-2.005%,https://jugamosotra.com/juegos/5645-nictofobia.html,Nictofobia
+16.95,35.9491,"19,00 €",-1.900%,https://jugamosotra.com/1-4-jugadores/5644-solenia.html,Solenia
+9.94,19.9408,"10,00 €",-1.000%,https://jugamosotra.com/inicio/5643-rrr.html,RRR
+10.95,24.9986,"14,05 €",-1.405%,https://jugamosotra.com/2-4-jugadores/5642-rookie-heroes.html,Rookie Heroes
+4.95,9.9462,"5,00 €",-500%,https://jugamosotra.com/2-8-jugadores-/5641-pares.html,Pares
+14.94,34.9448,"20,00 €",-2.000%,https://jugamosotra.com/juegos/5640-santiago.html,Santiago
+49.95,99.946,"50,00 €",-5.000%,https://jugamosotra.com/2-6-jugadores/5639-rum-bones.html,Rum & Bones
+16.94,34.9448,"18,00 €",-1.800%,https://jugamosotra.com/juegos/5638-bomb-squad.html,Bomb Squad
+11.94,24.9381,"13,00 €",-1.300%,https://jugamosotra.com/juegos/5637-snow-time.html,Snow Time
+29.94,59.9434,"30,00 €",-3.000%,https://jugamosotra.com/2-4-jugadores/5636-arcadia-quest-mas-alla-de-la-tumba.html,Arcadia Quest: Más Allá de la Tumba
+31.94,64.9407,"33,00 €",-3.300%,https://jugamosotra.com/2-4-jugadores/5635-arcadia-quest-jinetes.html,Arcadia Quest Jinetes
+29.94,59.9434,"30,00 €",-3.000%,https://jugamosotra.com/2-4-jugadores/5634-arcadia-quest-mascotas.html,Arcadia Quest Mascotas
+34.95,74.9958,"40,05 €",-4.005%,https://jugamosotra.com/1-4-jugadores/5633-colonos-de-marte.html,Colonos de Marte
+46.95,99.946,"53,00 €",-5.300%,https://jugamosotra.com/juegos/5632-journey-la-ira-de-los-demonios.html,Journey: La ira de los demonios
+19.94,39.9421,"20,00 €",-2.000%,https://jugamosotra.com/2-4-jugadores/5631-the-river.html,The River
+14.95,29.9475,"15,00 €",-1.500%,https://jugamosotra.com/juegos/5630-kero.html,Kero
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/juegos/5629-magic-maze-maxima-seguridad.html,Magic Maze: Máxima Seguridad
+7.19,11.9911,"4,80 €",-480%,https://jugamosotra.com/juegos/5628-magic-maze-roles-ocultos.html,Magic Maze: Roles Ocultos
+21.95,29.9475,"8,00 €",-800%,https://jugamosotra.com/juegos/4861-dual-powers-revolucion-1917.html,Dual Powers: Revolución 1917
+38.94,64.9891,"26,05 €",-2.605%,https://jugamosotra.com/2-5-jugadores/1127-belfort-edicion-limitada.html,Belfort: Edición Limitada
+36.94,62.9442,"26,00 €",-2.600%,https://jugamosotra.com/2-4-jugadores/3073-yokohama.html,Yokohama
+29.95,49.9972,"20,05 €",-2.005%,https://jugamosotra.com/2-4-jugadores/3369-gold-west-edicion-limitada.html,Gold West Edición Limitada
+24.95,49.9488,"25,00 €",-2.500%,https://jugamosotra.com/2-4-jugadores/5585-genios-victorianos.html,Genios Victorianos
+24.95,41.9991,"17,05 €",-1.705%,https://jugamosotra.com/juegos/5584-el-oraculo-de-delfos.html,El Oráculo de Delfos
+27.94,39.942099,"12,00 €",-1.200%,https://jugamosotra.com/juegos/5583-la-guerra-de-los-mundos-nueva-oleada.html,La Guerra de los Mundos: Nueva Oleada
+38.95,54.9461,"16,00 €",-1.600%,https://jugamosotra.com/1-5-jugadores/4262-manhattan-project-energy-empire.html,MANHATTAN PROJECT: ENERGY EMPIRE
+36.95,52.9496,"16,00 €",-1.600%,https://jugamosotra.com/2-4-jugadores/4221-los-pioneros.html,Los Pioneros
+31.95,44.9999,"13,05 €",-1.305%,https://jugamosotra.com/juegos/4622-abyss-castellano.html,Abyss (Castellano)
+27.95,39.9542,"12,00 €",-1.200%,https://jugamosotra.com/juegos-para-grupos-de-jugadores/3765-asesinato-en-hong-kong.html,Asesinato en Hong Kong
+17.95,29.9959,"12,05 €",-1.205%,https://jugamosotra.com/juegos/5563-cats.html,Cats
+15.94,27.9389,"12,00 €",-1.200%,https://jugamosotra.com/juegos/5562-orbital.html,Orbital
+14.95,24.9986,"10,05 €",-1.005%,https://jugamosotra.com/juegos/5561-senators.html,Senators
+9.95,15.9478,"6,00 €",-600%,https://jugamosotra.com/juegos/5560-lusitania.html,Lusitania
+8.95,12.947,"4,00 €",-400%,https://jugamosotra.com/juegos/5559-a-todo-tren.html,A todo Tren
+11.94,23.9943,"12,05 €",-1.205%,https://jugamosotra.com/2-4-jugadores/1567-ylandyss.html,Ylandyss
+11.95,20.0013,"8,05 €",-805%,https://jugamosotra.com/2-5-jugadores/5558-1920-wall-street-extras.html,1920 Wall Street
+11.95,18.0048,"6,05 €",-605%,https://jugamosotra.com/2-jugadores/5557-1911-amundsen-vs-scott-segunda-edicion.html,1911 Amundsen vs Scott
+9.94,19.9408,"10,00 €",-1.000%,https://jugamosotra.com/juegos/5553-aton.html,Aton
+19.94,44.9394,"25,00 €",-2.500%,https://jugamosotra.com/juegos/5552-eketorp.html,Eketorp
+19.94,39.942099,"20,00 €",-2.000%,https://jugamosotra.com/juegos/5551-aqua-romana.html,Aqua Romana
+17.94,34.9448,"17,00 €",-1.700%,https://jugamosotra.com/juegos/5550-alhambra-new-york.html,Alhambra New York
+14.94,39.942099,"25,00 €",-2.500%,https://jugamosotra.com/juegos/5549-der-palast-von-alhambra-sonderedition-bonn.html,Der Palast von Alhambra - Sonderedition Bonn
+14.95,38.949899,"24,00 €",-2.400%,https://jugamosotra.com/juegos/5548-dreams.html,Dreams
+6.95,12.947,"6,00 €",-600%,https://jugamosotra.com/juegos/5547-don.html,Don
+9.94,39.942099,"30,00 €",-3.000%,https://jugamosotra.com/juegos/5546-maharani.html,Maharani
+9.94,22.9416,"13,00 €",-1.300%,https://jugamosotra.com/juegos/5544-tales-games-baba-yaga.html,Tales & Games: Baba Yaga
+19.94,45.9437,"26,00 €",-2.600%,https://jugamosotra.com/juegos/5543-onward-to-venus.html,Onward to Venus
+9.95,29.9959,"20,05 €",-2.005%,https://jugamosotra.com/1-4-jugadores/5541-colonos-del-imperio-atlantes.html,Colonos del Imperio Atlantes
+6.94,14.9435,"8,00 €",-800%,https://jugamosotra.com/1-4-jugadores/488-colonos-del-imperio-por-que-tanto-odio.html,Colonos del Imperio ¿Por qué tanto odio?
+29.95,49.9488,"20,00 €",-2.000%,https://jugamosotra.com/2-jugadores/5539-blue-moon-legends.html,Blue Moon Legends
+29.95,49.9488,"20,00 €",-2.000%,https://jugamosotra.com/2-5-jugadores/5527-altiplano.html,Altiplano
+4.94,19.9408,"15,00 €",-1.500%,https://jugamosotra.com/juegos/5526-la-cima-yeti.html,Yeti + promo
+0,0,,,https://jugamosotra.com/juegos/5524-ofertas-bajo-demanda.html,OFERTAS BAJO DEMANDA 4
+9.95,24.9986,"15,05 €",-1.505%,https://jugamosotra.com/juegos/5523-mafia-de-cuba.html,MAFIA DE CUBA
+34.95,77.9482,"43,00 €",-4.300%,https://jugamosotra.com/2-4-jugadores/5522-burano.html,Burano
+0,0,,,https://jugamosotra.com/juegos/5521-ofertas-bajo-demanda.html,OFERTAS BAJO DEMANDA 3
+24.94,39.990499,"15,05 €",-1.505%,https://jugamosotra.com/juegos/5520-barony.html,Barony
+12.95,49.9488,"37,00 €",-3.700%,https://jugamosotra.com/2-4-jugadores/5519-coaster-park.html,Coaster Park
+12.95,29.9475,"17,00 €",-1.700%,https://jugamosotra.com/juegos/5518-reconquista.html,Reconquista
+99.99,279.7883,"179,80 €",-17.980%,https://jugamosotra.com/2-4-jugadores/5517-4-x-cry-havoc-castellano.html,4 x Cry Havoc (Castellano)
+0,0,,,https://jugamosotra.com/juegos/5516-ofertas-bajo-demanda.html,OFERTAS BAJO DEMANDA 2
+14.95,29.9475,"15,00 €",-1.500%,https://jugamosotra.com/3-8-jugadores/5515-noviembre-rojo-edicion-revisada.html,Noviembre Rojo Edición Revisada
+7.94,19.9408,"12,00 €",-1.200%,https://jugamosotra.com/juegos/5514-illusio.html,Illusio
+7.94,19.9408,"12,00 €",-1.200%,https://jugamosotra.com/juegos/5513-fairy-tale.html,Fairy Tale
+24.94,64.9407,"40,00 €",-4.000%,https://jugamosotra.com/juegos/5512-moto-grand-prix.html,Moto Grand Prix
+24.94,59.9434,"35,00 €",-3.500%,https://jugamosotra.com/juegos/5511-twilight-imperium-rex.html,Twilight Imperium Rex
+14.94,39.942099,"25,00 €",-2.500%,https://jugamosotra.com/1-4-jugadores/5510-colonos-del-imperio.html,Colonos del Imperio
+24.94,69.938,"45,00 €",-4.500%,https://jugamosotra.com/juegos/5509-the-world-of-smog-al-servicio-de-su-majestad.html,THE WORLD OF SMOG: AL SERVICIO DE SU MAJESTAD
+0,0,,,https://jugamosotra.com/juegos/4535-ofertas-bajo-demanda.html,OFERTAS BAJO DEMANDA 1
+19.95,24.9986,"5,05 €",-505%,https://jugamosotra.com/2-10-jugadores/5501-flick-em-up-dead-of-winter.html,Flick'em Up: Dead of Winter
+29.94,69.938,"40,00 €",-4.000%,https://jugamosotra.com/2-4-jugadores/5500-cry-havoc-castellano.html,Cry Havoc (Castellano)
+14.95,29.9959,"15,05 €",-1.505%,https://jugamosotra.com/juegos/5498-heroes-a-medida.html,Héroes a medida
+41.95,49.9972,"8,05 €",-805%,https://jugamosotra.com/2-5-jugadores/4671-istanbul-big-box-castellano.html,Istanbul Big Box (Castellano)
+19.95,35.9975,"16,05 €",-1.605%,https://jugamosotra.com/2-5-jugadores/3552-colt-express-bandits-pack.html,Colt Express BANDITS Pack
+34.94,59.9434,"25,00 €",-2.500%,https://jugamosotra.com/2-5-jugadores/277-dead-of-winter.html,Dead of Winter
+29.95,49.9488,"20,00 €",-2.000%,https://jugamosotra.com/juegos/5456-pandemic-el-reino-de-cthulhu.html,Pandemic: El Reino de Cthulhu
+8.94,14.9919,"6,05 €",-605%,https://jugamosotra.com/juegos/5455-zombies-vs-cheerleaders.html,Zombies vs Cheerleaders
+22.94,39.942099,"17,00 €",-1.700%,https://jugamosotra.com/juegos/5454-raxxon.html,Raxxon
+79.79,109.8438,"30,05 €",-3.005%,https://jugamosotra.com/2-7-jugadores/5453-pack-7-wonders-edicion-antigua.html,Pack 7 Wonders Edición Antigua
+34.94,59.9434,"25,00 €",-2.500%,https://jugamosotra.com/juegos/5088-dead-of-winter-la-larga-noche.html,Dead of Winter: La larga Noche
+14.94,34.9932,"20,05 €",-2.005%,https://jugamosotra.com/juegos/5407-la-cueva-del-troll.html,La Cueva del Troll
+22.95,39.9542,"17,00 €",-1.700%,https://jugamosotra.com/juegos-para-grupos-de-jugadores/5404-el-ultimo-banquete.html,El Último Banquete
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/5402-zombies-el-juego-de-cartas.html,Zombies El Juego de Cartas
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/5401-el-mercado-de-los-ladrones.html,El Mercado de los Ladrones
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/juegos/5400-anima-mas-alla-del-bien-y-del-mal.html,Anima: Más Allá del Bien y del Mal
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/juegos/5399-anima-la-sombra-de-omega.html,Anima: La Sombra de Omega
+9.95,24.9986,"15,05 €",-1.505%,https://jugamosotra.com/juegos/5398-killer-bunnies.html,Killer Bunnies
+12.95,24.9986,"12,05 €",-1.205%,https://jugamosotra.com/juegos/5397-cthulhu-gloom.html,CTHULHU GLOOM
+12.95,24.9986,"12,05 €",-1.205%,https://jugamosotra.com/juegos/5396-munchkin-gloom.html,Munchkin Gloom
+4.94,9.9946,"5,05 €",-505%,https://jugamosotra.com/juegos/5395-munchkin-quest-3-portal-kombat.html,Munchkin Quest 3: Portal Kombat
+14.94,34.9932,"20,05 €",-2.005%,https://jugamosotra.com/juegos/5394-munchkin-quest-2-buscando-problemas.html,Munchkin Quest 2: Buscando Problemas
+19.94,59.9918,"40,05 €",-4.005%,https://jugamosotra.com/juegos/5393-munchkin-quest.html,Munchkin Quest
+74.94,124.993,"50,05 €",-5.005%,https://jugamosotra.com/1-4-jugadores/5391-venganza-exp-del-clan-rosario.html,Venganza + Exp. del Clan Rosario
+29.95,49.9488,"20,00 €",-2.000%,https://jugamosotra.com/1-4-jugadores/5389-51st-state-set-completo.html,51st State: Set Completo
+22.94,39.990499,"17,05 €",-1.705%,https://jugamosotra.com/2-5-jugadores/2779-attack-on-titan-la-ultima-batalla.html,Attack on Titan: La última batalla
+14.95,24.9986,"10,05 €",-1.005%,https://jugamosotra.com/2-4-jugadores/598-la-posada-sangrienta.html,La Posada Sangrienta
+169.95,299.9953,"130,05 €",-13.005%,https://jugamosotra.com/juegos/5383-batallas-de-poniente-6-expansiones.html,Batallas de Poniente + 6 Expansiones
+44.94,79.9931,"35,05 €",-3.505%,https://jugamosotra.com/juegos/5382-batallas-de-poniente.html,Batallas de Poniente
+34.94,59.9434,"25,00 €",-2.500%,https://jugamosotra.com/juegos/4874-relic.html,Relic
+49.94,89.9393,"40,00 €",-4.000%,https://jugamosotra.com/juegos/5375-rivet-wars.html,Rivet Wars
+34.94,59.9434,"25,00 €",-2.500%,https://jugamosotra.com/juegos/5374-xenoshyft-onslaught.html,Xenoshyft Onslaught
+33.96,59.9555,"26,00 €",-2.600%,https://jugamosotra.com/juegos/5373-rail-raiders-infinite.html,Rail Raiders Infinite
+19.94,39.942099,"20,00 €",-2.000%,https://jugamosotra.com/juegos/5372-heroes.html,Héroes
+8.94,14.9435,"6,00 €",-600%,https://jugamosotra.com/juegos/5371-perdidos-en-rlyeh.html,Perdidos en R’lyeh
+7.95,12.947,"5,00 €",-500%,https://jugamosotra.com/2-jugadores/4275-las-mareas-del-tiempo.html,Las Mareas del Tiempo
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/5369-dark-tales.html,Dark Tales
+5.45,9.9462,"4,50 €",-450%,https://jugamosotra.com/2-10-jugadores/2304-quiz-chef.html,Quiz Chef
+16.95,29.9475,"13,00 €",-1.300%,https://jugamosotra.com/juegos/5360-zombies-junior.html,Zombies!!! Junior
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/5358-tesoros-inesperados.html,Tesoros Inesperados
+7.95,12.947,"5,00 €",-500%,https://jugamosotra.com/juegos/5357-plouf-party.html,Plouf Party
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/5356-carta-impera-victoria.html,Carta Impera Victoria
+6.94,11.9427,"5,00 €",-500%,https://jugamosotra.com/juegos/5355-story-cubes-hora-de-aventuras.html,STORY CUBES: HORA DE AVENTURAS
+8.94,14.9435,"6,00 €",-600%,https://jugamosotra.com/juegos/5354-mi-postre-favorito.html,¡Mi Postre Favorito!
+8.94,14.9435,"6,00 €",-600%,https://jugamosotra.com/juegos/5353-adivina.html,¡Adivina!
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/3-8-jugadores/5352-fuji-flush.html,Fuji Flush
+7.94,14.9919,"7,05 €",-705%,https://jugamosotra.com/juegos/5351-stoplight.html,Stoplight
+8.94,14.9435,"6,00 €",-600%,https://jugamosotra.com/2-6-jugadores/5350-contrast.html,Contrast
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/2-6-jugadores/5349-alta-tension-el-juego-de-cartas.html,Alta Tensión: El Juego de Cartas
+16.95,29.9475,"13,00 €",-1.300%,https://jugamosotra.com/juegos/5347-unearth.html,Unearth
+33.94,39.942099,"6,00 €",-600%,https://jugamosotra.com/2-7-jugadores/57-7-wonders.html,7 Wonders
+34.94,59.9918,"25,05 €",-2.505%,https://jugamosotra.com/juegos/5255-la-furia-de-dracula.html,La Furia de Drácula
+25.95,44.9999,"19,05 €",-1.905%,https://jugamosotra.com/juegos/5254-futuropia.html,Futuropia
+8.94,14.9919,"6,05 €",-605%,https://jugamosotra.com/juegos/5250-a-lo-loco.html,A lo Loco
+7.94,14.9919,"7,05 €",-705%,https://jugamosotra.com/juegos/5249-millions-of-dollars.html,Millions of Dollars
+8.94,14.9919,"6,05 €",-605%,https://jugamosotra.com/juegos/5248-las-mareas-de-la-locura.html,Las Mareas de la Locura
+13.95,24.9502,"11,00 €",-1.100%,https://jugamosotra.com/2-5-jugadores/5246-nomadas.html,Nómadas
+13.95,24.9502,"11,00 €",-1.100%,https://jugamosotra.com/3-6-jugadores/2709-oh-capitan.html,¡Oh Capitán!
+19.94,34.9448,"15,00 €",-1.500%,https://jugamosotra.com/juegos/4572-eminent-domain-castellano.html,Eminent Domain (Castellano)
+8.94,14.9435,"6,00 €",-600%,https://jugamosotra.com/juegos/5245-kharnage-tricks-and-mercenaries.html,Kharnage: Tricks and Mercenaries
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/5244-kharnage-the-dark-rampage.html,Kharnage: The Dark Rampage
+14.94,24.9381,"10,00 €",-1.000%,https://jugamosotra.com/juegos/5243-kharnage.html,Kharnage
+9.95,15.9962,"6,05 €",-605%,https://jugamosotra.com/juegos/5242-gang-of-four.html,Gang of Four
+8.94,14.9435,"6,00 €",-600%,https://jugamosotra.com/juegos/5241-blank.html,Blank
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/juegos/5240-jetpack-joyride.html,Jetpack Joyride
+14.95,24.9986,"10,05 €",-1.005%,https://jugamosotra.com/juegos/5238-small-world-river-world.html,Small World: River World
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/4312-carapato.html,Carapato
+33.94,59.9434,"26,00 €",-2.600%,https://jugamosotra.com/1-4-jugadores/3613-discover-lands-unknown.html,Discover: Lands Unknown
+16.95,29.999999,"13,05 €",-1.305%,https://jugamosotra.com/juegos/4754-7-wonders-armada.html,7 Wonders: Armada
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/2-7-jugadores/5230-wonders-leaders.html,7 Wonders: Leaders
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/5219-enigmas-nuestro-planeta.html,ENIGMAS NUESTRO PLANETA
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/5218-enigmas-cuerpo-humano.html,Enigmas Cuerpo Humano
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/5217-enigmas-misterios-de-la-ciencia.html,ENIGMAS MISTERIOS DE LA CIENCIA
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/5216-enigmas-oficios.html,Enigmas Oficios
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/5215-enigmas-mundo-animal.html,Enigmas Mundo Animal
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/5214-mis-primeros-enigmas-animales.html,Mis primeros Enigmas Animales
+13.95,29.9959,"16,05 €",-1.605%,https://jugamosotra.com/juegos/5212-sospechosos-inhabituales.html,Sospechosos Inhabituales
+16.95,29.9475,"13,00 €",-1.300%,https://jugamosotra.com/juegos/5205-tags.html,TAGS
+22.94,39.990499,"17,05 €",-1.705%,https://jugamosotra.com/juegos/5204-volt.html,Volt
+24.94,34.9448,"10,00 €",-1.000%,https://jugamosotra.com/juegos/5200-el-simbolo-arcano.html,El Simbolo Arcano
+16.95,29.9475,"13,00 €",-1.300%,https://jugamosotra.com/juegos/4653-one-key-promos.html,One Key + Promos
+8.94,14.9435,"6,00 €",-600%,https://jugamosotra.com/2-5-jugadores/1253-loony-quest-the-lost-city.html,Loony Quest :The Lost City
+16.95,29.9475,"13,00 €",-1.300%,https://jugamosotra.com/familiar/288-loony-quest.html,Loony Quest
+14.95,24.9986,"10,05 €",-1.005%,https://jugamosotra.com/inicio/5196-13-pistas.html,13 Pistas
+5.94,9.9946,"4,05 €",-405%,https://jugamosotra.com/juegos/5195-pardillo.html,¡Pardillo!
+6.95,10.9989,"4,05 €",-405%,https://jugamosotra.com/juegos/5194-origami.html,Origami
+19.95,35.9491,"16,00 €",-1.600%,https://jugamosotra.com/juegos/5192-agricola-family-edition.html,Agricola Family Edition
+17.44,34.9448,"17,50 €",-1.750%,https://jugamosotra.com/2-jugadores/5186-revolucion-1828.html,Revolución 1828
+24.95,49.9972,"25,05 €",-2.505%,https://jugamosotra.com/juegos/5185-calimala.html,Calimala
+19.95,39.9542,"20,00 €",-2.000%,https://jugamosotra.com/1-4-jugadores/3866-covil-los-senores-oscuros.html,Covil: Los Señores Oscuros
+24.95,49.9488,"25,00 €",-2.500%,https://jugamosotra.com/2-4-jugadores/5183-manitoba.html,Manitoba
+9.95,19.9529,"10,00 €",-1.000%,https://jugamosotra.com/2-4-jugadores/3671-perfect-hotel.html,Perfect Hotel
+24.95,49.9488,"25,00 €",-2.500%,https://jugamosotra.com/1-4-jugadores/3669-reykholt.html,Reykholt
+19.94,34.9932,"15,05 €",-1.505%,https://jugamosotra.com/juegos/5181-untold.html,Untold
+29.95,49.9972,"20,05 €",-2.005%,https://jugamosotra.com/juegos/5180-yggdrasil-chronicles.html,Yggdrasil Chronicles
+14.95,24.9986,"10,05 €",-1.005%,https://jugamosotra.com/juegos/5177-yum-yum-island.html,Yum Yum Island
+14.95,24.9986,"10,05 €",-1.005%,https://jugamosotra.com/juegos/5176-combo-color.html,Combo Color
+17.95,29.9959,"12,05 €",-1.205%,https://jugamosotra.com/juegos/5175-picture-show.html,Picture Show
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/inicio/5165-numeros-locos.html,Números Locos
+14.94,24.9381,"10,00 €",-1.000%,https://jugamosotra.com/3-6-jugadores/4033-doodle-rush.html,Doodle Rush
+22.94,39.942099,"17,00 €",-1.700%,https://jugamosotra.com/2-4-jugadores/3039-riverboat.html,Riverboat
+14.94,24.9381,"10,00 €",-1.000%,https://jugamosotra.com/2-5-jugadores/5164-costa-rica-castellano.html,Costa Rica (Castellano)
+29.94,39.990499,"10,05 €",-1.005%,https://jugamosotra.com/juegos/5162-god-of-war-el-juego-de-cartas.html,God of War El Juego de Cartas
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/juegos/5161-monstruojo.html,Monstruojo
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/juegos/5159-pikto.html,Pikto
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/juegos/5158-wendigo.html,Wendigo
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/juegos/5157-storyline-cuentos-de-hadas.html,StoryLine: Cuentos de Hadas
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/juegos/5156-dream-on.html,Dream On!
+11.95,19.9529,"8,00 €",-800%,https://jugamosotra.com/3-5-jugadores/5155-smile.html,Smile
+17.95,29.9475,"12,00 €",-1.200%,https://jugamosotra.com/2-4-jugadores/5154-mas-alla-de-baker-street.html,Más Allá de Baker Street
+22.95,29.9959,"7,05 €",-705%,https://jugamosotra.com/juegos/5153-condottiere.html,Condottiere
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/5152-mesozooic.html,Mesozooic
+11.94,19.9892,"8,05 €",-805%,https://jugamosotra.com/juegos/5151-twins.html,Twins
+9.94,14.9435,"5,00 €",-500%,https://jugamosotra.com/juegos/4571-malditas-momias.html,Malditas Momias
+17.95,29.9475,"12,00 €",-1.200%,https://jugamosotra.com/juegos/4382-drunken-sailor.html,Drunken Sailor
+40.95,65.0012,"24,05 €",-2.405%,https://jugamosotra.com/2-4-jugadores/5141-agra.html,Agra
+13.95,26.9951,"13,05 €",-1.305%,https://jugamosotra.com/juegos/5140-north-american-railways.html,NORTH AMERICAN RAILWAYS
+31.95,49.9972,"18,05 €",-1.805%,https://jugamosotra.com/2-4-jugadores/5139-tierras-bajas.html,Tierras Bajas
+25.94,39.990499,"14,05 €",-1.405%,https://jugamosotra.com/juegos/5138-lincoln.html,Lincoln
+28.95,44.9999,"16,05 €",-1.605%,https://jugamosotra.com/juegos/5137-entre-dos-castillos-del-rey-loco-ludwig.html,ENTRE DOS CASTILLOS DEL REY LOCO LUDWIG
+9.95,19.9529,"10,00 €",-1.000%,https://jugamosotra.com/2-5-jugadores/5136-amun-re-el-juego-de-cartas.html,AMUN-RE: EL JUEGO DE CARTAS
+20.95,43.0034,"22,05 €",-2.205%,https://jugamosotra.com/2-4-jugadores/5135-carpe-diem.html,Carpe Diem
+8.95,18.0048,"9,05 €",-905%,https://jugamosotra.com/2-jugadores/5134-patchwork-expres.html,Patchwork Exprés
+24.95,49.9972,"25,05 €",-2.505%,https://jugamosotra.com/2-4-jugadores/5133-el-foro-trajano.html,El Foro Trajano
+8.94,14.9919,"6,05 €",-605%,https://jugamosotra.com/3-8-jugadores/5122-decrypto-lector-laser.html,Decrypto: Lector Láser
+26.94,44.9394,"18,00 €",-1.800%,https://jugamosotra.com/juegos/5108-space-gate-odyssey.html,Space Gate Odyssey
+34.95,49.9488,"15,00 €",-1.500%,https://jugamosotra.com/2-6-jugadores/1667-mision-planeta-rojo.html,Misión Planeta Rojo
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/5083-bomb-squad-academy.html,Bomb Squad Academy
+34.94,59.9434,"25,00 €",-2.500%,https://jugamosotra.com/juegos/5069-nueva-angeles.html,Nueva Ángeles
+39.94,69.938,"30,00 €",-3.000%,https://jugamosotra.com/2-4-jugadores/5081-la-senda-del-panda.html,La Senda del Panda
+22.94,39.942099,"17,00 €",-1.700%,https://jugamosotra.com/2-4-jugadores/3071-otys.html,Otys
+11.99,19.9892,"8,00 €",-800%,https://jugamosotra.com/juegos/5029-tres-hurras-por-el-amo.html,Tres hurras por el Amo
+34.99,59.9918,"25,00 €",-2.500%,https://jugamosotra.com/juegos/5028-age-of-thieves.html,Age of Thieves
+19.94,34.9448,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/4323--smash-up-munchkin.html,Smash Up: Munchkin
+19.94,34.9932,"15,05 €",-1.505%,https://jugamosotra.com/juegos/5025-gateway-uprising.html,Gateway Uprising
+41.96,59.9555,"18,00 €",-1.800%,https://jugamosotra.com/1-6-jugadores/563-las-mil-y-una-noches.html,Las Mil y Una Noches
+14.94,24.9381,"10,00 €",-1.000%,https://jugamosotra.com/juegos/5010-purrrlock-holmes.html,Purrrlock Holmes
+17.95,29.9475,"12,00 €",-1.200%,https://jugamosotra.com/juegos/5009-shadows-amsterdam.html,Shadows Amsterdam
+44.94,79.944699,"35,00 €",-3.500%,https://jugamosotra.com/juegos/5006-504.html,504
+17.95,29.9475,"12,00 €",-1.200%,https://jugamosotra.com/juegos/5005-la-cosa-nostra.html,La Cosa Nostra
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/5004-munchkin-navidades-light.html,MUNCHKIN NAVIDADES LIGHT
+14.95,24.9502,"10,00 €",-1.000%,https://jugamosotra.com/1-4-jugadores/5003-el-puerto.html,El Puerto
+29.95,49.9972,"20,05 €",-2.005%,https://jugamosotra.com/1-4-jugadores/5002-petrichor-castellano.html,Petrichor (Castellano)
+19.94,30.492,"10,55 €",-1.055%,https://jugamosotra.com/juegos/4992-costa-ruana.html,Costa Ruana
+26.95,29.9475,"3,00 €",-300%,https://jugamosotra.com/juegos/4991-isle-de-skye-de-lider-a-rey.html,Isle de Skye: De lider a rey
+19.94,50.941,"31,00 €",-3.100%,https://jugamosotra.com/juegos/4989-dicium.html,Dicium
+24.95,49.9488,"25,00 €",-2.500%,https://jugamosotra.com/juegos/4424-bremerhaven.html,Bremerhaven
+49.94,79.944699,"30,00 €",-3.000%,https://jugamosotra.com/juegos/4987-la-cima-expansion-yeti.html,La Cima + Expansión Yeti + promo
+34.94,59.9434,"25,00 €",-2.500%,https://jugamosotra.com/juegos/4985-feudalia.html,FEUDALIA
+44.94,69.938,"25,00 €",-2.500%,https://jugamosotra.com/juegos/4984-dofus-krosmaster-boufbowl.html,DOFUS KROSMASTER BOUFBOWL
+18.94,39.9421,"21,00 €",-2.100%,https://jugamosotra.com/2-6-jugadores/4983-last-friday-regreso-al-campamento-apache.html,Last Friday Regreso al Campamento Apache
+22.95,29.9475,"7,00 €",-700%,https://jugamosotra.com/1-4-jugadores/4982-onus-el-juego-de-batallas-historicas-tercera-edicion.html,Onus El juego de batallas históricas Tercera Edición
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/4979-journey-set-de-puentes.html,Journey: Set de Puentes
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/4976-mind-maze-cosas-raras-2.html,Mind Maze: Cosas raras 2
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/4975-mind-maze-dinero-fama-y-poder-2.html,"Mind Maze: Dinero, fama y poder 2"
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/4974-mind-maze-dinero-fama-y-poder.html,"Mind Maze: Dinero, fama y poder"
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/4973-mind-maze-asi-es-la-vida.html,Mind Maze: Así es la vida
+5.95,9.9462,"4,00 €",-400%,https://jugamosotra.com/juegos/4972-mind-maze-jovenes-detectives-2.html,Mind Maze: Jóvenes detectives 2
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/4970-caballeros-del-arcoiris.html,Caballeros del Arcoíris
+8.94,14.9435,"6,00 €",-600%,https://jugamosotra.com/juegos/4967-3-secretos.html,3 Secretos
+8.94,14.9435,"6,00 €",-600%,https://jugamosotra.com/juegos/4966-dolores.html,Dolores
+59.95,99.946,"40,00 €",-4.000%,https://jugamosotra.com/inicio/4964-gen-7.html,Gen 7
+9.95,21.9494,"12,00 €",-1.200%,https://jugamosotra.com/inicio/4935-panic-diner.html,Panic Diner
+19.94,34.9448,"15,00 €",-1.500%,https://jugamosotra.com/2-10-jugadores/4831-flick-em-up-tierra-de-forajidos.html,Flick'em Up: Tierra de Forajidos
+14.95,29.9475,"15,00 €",-1.500%,https://jugamosotra.com/juegos/4828-martinique.html,Martinique
+24.95,29.9475,"5,00 €",-500%,https://jugamosotra.com/2-4-jugadores/1806-el-soneto.html,El Soneto
+19.94,44.9394,"25,00 €",-2.500%,https://jugamosotra.com/2-4-jugadores/3033-cosmogenesis.html,Cosmogénesis
+19.95,49.9488,"30,00 €",-3.000%,https://jugamosotra.com/1-4-jugadores/1985-dias-de-ira-budapest-1956.html,Días de Ira: Budapest 1956
+24.9,46.8996,"22,00 €",-2.200%,https://jugamosotra.com/inicio/4822-reinos-de-papel-expansion.html,Reinos de Papel + Expansión
+19.94,34.9448,"15,00 €",-1.500%,https://jugamosotra.com/inicio/4821-vektorace.html,VEKTORACE
+7.95,18.9486,"11,00 €",-1.100%,https://jugamosotra.com/juegos/4820-halli-galli-party.html,HALLI GALLI PARTY
+7.94,14.9435,"7,00 €",-700%,https://jugamosotra.com/juegos/4819-450-cosas-que-hacer-en-tu-vida.html,450 COSAS QUE HACER EN TU VIDA
+9.94,19.9408,"10,00 €",-1.000%,https://jugamosotra.com/juegos/4818-shrimp.html,SHRIMP
+5.95,12.947,"7,00 €",-700%,https://jugamosotra.com/juegos/4817-splash.html,SPLASH!
+6.94,11.9427,"5,00 €",-500%,https://jugamosotra.com/juegos/4816-narabi.html,NARABI
+7.95,12.947,"5,00 €",-500%,https://jugamosotra.com/juegos/4815-karma.html,KARMA
+9.94,17.9443,"8,00 €",-800%,https://jugamosotra.com/juegos/4814-deja-vu.html,DEJA-VU
+6.94,11.9427,"5,00 €",-500%,https://jugamosotra.com/juegos/4813-bye-bye-oveja-negra.html,BYE BYE OVEJA NEGRA
+5.94,11.9427,"6,00 €",-600%,https://jugamosotra.com/juegos/4812-mindo-robots.html,MINDO ROBOTS
+5.94,11.9427,"6,00 €",-600%,https://jugamosotra.com/juegos/4810-mindo-perros.html,MINDO PERROS
+5.94,11.9427,"6,00 €",-600%,https://jugamosotra.com/juegos/4809-mindo-gatos.html,MINDO GATOS
+12.94,22.9416,"10,00 €",-1.000%,https://jugamosotra.com/inicio/4808-brain-connect.html,BRAIN CONNECT
+16.94,34.9448,"18,00 €",-1.800%,https://jugamosotra.com/2-5-jugadores/4807-ilos-castellano.html,Ilos (Castellano)
+5.94,11.9427,"6,00 €",-600%,https://jugamosotra.com/juegos/4806-matrioska.html,MATRIOSKA
+6.94,11.9427,"5,00 €",-500%,https://jugamosotra.com/juegos/4366-kameleo.html,KAMELEO
+14.94,25.9424,"11,00 €",-1.100%,https://jugamosotra.com/juegos/4794-saboteur-las-minas-perdidas.html,Saboteur: Las Minas Perdidas
+7.95,12.95,"5,00 €",-500%,https://jugamosotra.com/2-5-jugadores/826-el-portal-de-molthar.html,El Portal de Molthar
+9.95,17.95,"8,00 €",-800%,https://jugamosotra.com/2-4-jugadores/1221-batti-burri.html,Batti Burri
+12.94,34.9448,"22,00 €",-2.200%,https://jugamosotra.com/juegos/4799-108-the-game-that-is-won-with-the-universe.html,108: The game that is Won with the Universe
+34.94,59.9434,"25,00 €",-2.500%,https://jugamosotra.com/2-5-jugadores/1599-imperial-assault-regreso-a-hoth.html,Star Wars Imperial Assault : Regreso a Hoth
+59.95,99.946,"40,00 €",-4.000%,https://jugamosotra.com/juegos/4795-runewars-el-juego-de-miniaturas.html,Runewars: El juego de miniaturas
+19.95,38.949899,"19,00 €",-1.900%,https://jugamosotra.com/juegos/4750-bastille.html,Bastille
+14.95,43.9956,"29,05 €",-2.905%,https://jugamosotra.com/juegos/4751-klondike-rush.html,Klondike Rush
+17.94,34.9448,"17,00 €",-1.700%,https://jugamosotra.com/2-4-jugadores/4747-village.html,Village
+19.94,39.942099,"20,00 €",-2.000%,https://jugamosotra.com/juegos/4733-a-thief-s-fortune.html,A Thief's Fortune
+19.94,34.9448,"15,00 €",-1.500%,https://jugamosotra.com/juegos/4731-gem-rush-second-edition.html,Gem Rush (Second Edition)
+19.94,42.9429,"23,00 €",-2.300%,https://jugamosotra.com/juegos/4722-embark.html,Embark
+25.94,55.9383,"30,00 €",-3.000%,https://jugamosotra.com/juegos/4718-passing-through-petra.html,Passing Through Petra
+22.95,29.9475,"7,00 €",-700%,https://jugamosotra.com/2-jugadores/4706-mr-jack-edicion-new-york.html,Mr. Jack Edicion New York
+17.95,29.9475,"12,00 €",-1.200%,https://jugamosotra.com/juegos/4651-chez-geek-piso-compartido.html,Chez Geek: Piso compartido
+9.94,14.9919,"5,05 €",-505%,https://jugamosotra.com/juegos/4650-mafia-de-cuba-revolucion.html,MAFIA DE CUBA: ¡REVOLUCIÓN!
+19.94,34.9932,"15,05 €",-1.505%,https://jugamosotra.com/juegos/4647-inventores-legendarios.html,Inventores Legendarios
+24.94,44.9394,"20,00 €",-2.000%,https://jugamosotra.com/juegos/4646-guilds-castellano.html,Guilds (Castellano)
+24.94,39.942099,"15,00 €",-1.500%,https://jugamosotra.com/2-6-jugadores/2994-ethnos.html,Ethnos
+39.94,69.938,"30,00 €",-3.000%,https://jugamosotra.com/2-6-jugadores/3268-ricardo-corazon-de-leon.html,Ricardo Corazón de León
+7.94,19.9408,"12,00 €",-1.200%,https://jugamosotra.com/juegos/4640-spynet.html,Spynet
+9.94,17.9927,"8,05 €",-805%,https://jugamosotra.com/2-jugadores/4639-patchwork-expres-ingles.html,Patchwork Exprés (Inglés)
+24.95,35.9491,"11,00 €",-1.100%,https://jugamosotra.com/juegos/4637-agricola-family-edition.html,Agricola Family Edition
+19.94,33.9405,"14,00 €",-1.400%,https://jugamosotra.com/juegos/4611-hold-the-line-the-french-indian-war.html,Hold the Line: The French & Indian War
+34.95,34.95,,,https://jugamosotra.com/juegos/4607-12-thieves.html,12 Thieves
+19.95,39.9542,"20,00 €",-2.000%,https://jugamosotra.com/2-5-jugadores/4582-broom-service-aleman.html,Broom Service (Alemán)
+19.95,44.9515,"25,00 €",-2.500%,https://jugamosotra.com/2-4-jugadores/3993-the-great-city-of-rome.html,The Great City of Rome
+24.95,65.945,"41,00 €",-4.100%,https://jugamosotra.com/juegos/4559-ultimate-werewolf-legacy.html,Ultimate Werewolf Legacy
+24.94,34.9448,"10,00 €",-1.000%,https://jugamosotra.com/1-4-jugadores/1732-cottage-garden.html,Cottage Garden
+29.9,54.9461,"25,05 €",-2.505%,https://jugamosotra.com/1-6-jugadores/4543-rise-to-nobility-castellano.html,Rise to Nobility (Inglés)
+12.95,19.9529,"7,00 €",-700%,https://jugamosotra.com/3-5-jugadores/640-res-publica-2230-ad-edicion-kickstarter.html,Res Pública 2230 AD Edición Kickstarter
+49.95,69.9985,"20,05 €",-2.005%,https://jugamosotra.com/2-4-jugadores/3807-tudor-miniaturas-edicion-verkami.html,Tudor + Miniaturas + Promos (Edición Verkami)
+14.95,19.9529,"5,00 €",-500%,https://jugamosotra.com/4-8-jugadores/2770-grande-y-peludo.html,Grande y Peludo
+24.94,39.942099,"15,00 €",-1.500%,https://jugamosotra.com/3-8-jugadores/3269-breaking-bad-el-juego-de-tablero.html,Breaking Bad El Juego de Tablero
+9.94,44.4917,"34,55 €",-3.455%,https://jugamosotra.com/juegos/4469-merchants-of-araby.html,Merchants of Araby
+7.95,13.5036,"5,55 €",-555%,https://jugamosotra.com/3-8-jugadores/1662-zoop.html,Zoop
+31.95,49.9488,"18,00 €",-1.800%,https://jugamosotra.com/juegos/4458-deus.html,Deus
+64.95,89.9998,"25,05 €",-2.505%,https://jugamosotra.com/inicio/4443-la-stanza-deluxe-ingles.html,La Stanza Deluxe (Inglés)
+19.95,29.9475,"10,00 €",-1.000%,https://jugamosotra.com/1-5-jugadores/3672-santa-maria-american-kingdoms.html,Santa Maria: American Kingdoms
+24.95,35.9975,"11,05 €",-1.105%,https://jugamosotra.com/juegos/4420-topoum-bratatata.html,Topoum + Bratatata
+7.94,13.4915,"5,55 €",-555%,https://jugamosotra.com/juegos/4419-el-legado-del-maharaja.html,El legado del Maharajá
+8.95,15.9478,"7,00 €",-700%,https://jugamosotra.com/juegos/4418-el-diablo-de-la-botella-.html,El diablo de la botella
+8.95,15.9478,"7,00 €",-700%,https://jugamosotra.com/juegos/4417-dr-jekyll-contra-mr-hyde.html,Dr. Jekyll contra Mr. Hyde
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/4415-la-agencia-mision-embajada.html,La agencia: Misión Embajada
+19.94,36.9413,"17,00 €",-1.700%,https://jugamosotra.com/juegos/4405-trans-europa.html,Trans Europa
+31.94,61.9399,"30,00 €",-3.000%,https://jugamosotra.com/juegos/4403-council-of-four.html,Council Of Four
+9.94,19.9408,"10,00 €",-1.000%,https://jugamosotra.com/juegos/4316-team-play.html,Team Play
+17.94,25.9424,"8,00 €",-800%,https://jugamosotra.com/juegos/4307-ta-ke.html,Ta-ke
+11.94,19.9408,"8,00 €",-800%,https://jugamosotra.com/juegos/4304-little-big-fish.html,Little Big Fish
+19.94,47.9402,"28,00 €",-2.800%,https://jugamosotra.com/juegos/4303-race-to-the-new-found-land.html,Race to the New Found Land
+19.95,29.9475,"10,00 €",-1.000%,https://jugamosotra.com/2-5-jugadores/4300-whistle-stop.html,Whistle Stop: Rocky Mountains
+34.95,66.9493,"32,00 €",-3.200%,https://jugamosotra.com/3-6-jugadores/3290-history-of-the-world.html,History of the World
+9.95,24.9502,"15,00 €",-1.500%,https://jugamosotra.com/3-6-jugadores/4296-doodle-rush.html,Doodle Rush (Inglés)
+7.94,14.9435,"7,00 €",-700%,https://jugamosotra.com/2-6-jugadores/4293-contrast.html,Contrast (Inglés)
+34.95,58.9512,"24,00 €",-2.400%,https://jugamosotra.com/2-5-jugadores/3800-iberian-rails.html,Iberian Rails
+19.95,29.9475,"10,00 €",-1.000%,https://jugamosotra.com/1-4-jugadores/4286-la-granja-the-dice-game-no-siesta.html,La Granja The Dice Game: No Siesta
+17.95,29.9475,"12,00 €",-1.200%,https://jugamosotra.com/2-jugadores/1807-13-dias-la-crisis-de-los-misiles-en-cuba-1962.html,13 Días: La Crisis de los misiles en Cuba 1962
+14.94,34.9448,"20,00 €",-2.000%,https://jugamosotra.com/2-4-jugadores/3639-holding-on-the-troubled-life-of-billy-kerr.html,Holding On: The Troubled Life of Billy Kerr (Inglés)
+24.96,42.955,"18,00 €",-1.800%,https://jugamosotra.com/2-4-jugadores/4220-queen-s-architect.html,Queen's Architect
+11.95,19.9529,"8,00 €",-800%,https://jugamosotra.com/2-4-jugadores/4219-woo-hoo.html,Woo-Hoo!
+24.95,46.948,"22,00 €",-2.200%,https://jugamosotra.com/1-4-jugadores/4218-sorcerer-stones.html,Sorcerer & Stones
+14.95,25.9545,"11,00 €",-1.100%,https://jugamosotra.com/2-4-jugadores/4216-mystery-of-the-temples.html,Mystery of the Temples
+9.95,18.9486,"9,00 €",-900%,https://jugamosotra.com/3-6-jugadores/4214-nut-so-fast.html,Nut So Fast
+7.95,24.9502,"17,00 €",-1.700%,https://jugamosotra.com/2-5-jugadores/4211-food-truck-champion.html,Food Truck Champion
+9.95,24.9502,"15,00 €",-1.500%,https://jugamosotra.com/2-5-jugadores/4210-nomadas-ingles.html,Nómadas (Inglés)
+9.95,24.9502,"15,00 €",-1.500%,https://jugamosotra.com/3-6-jugadores/4209-oh-capitan.html,¡Oh Capitán!  (Inglés)
+24.95,64.9528,"40,00 €",-4.000%,https://jugamosotra.com/2-6-jugadores/4175-extra-extra.html,Extra! Extra!
+24.95,39.9542,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/4172-otys.html,Otys (Inglés)
+24.95,39.9542,"15,00 €",-1.500%,https://jugamosotra.com/3-8-jugadores/2309-crazy-karts.html,Crazy Karts
+36.95,54.9461,"18,00 €",-1.800%,https://jugamosotra.com/2-6-jugadores/4153-keyflow.html,Key Flow
+21.94,34.9448,"13,00 €",-1.300%,https://jugamosotra.com/2-jugadores/4152-princesa-jing-ingles.html,Princesa Jing (Inglés)
+29.95,53.9539,"24,00 €",-2.400%,https://jugamosotra.com/2-5-jugadores/4147-valdora-valdora-extra.html,Valdora + Valdora Extra
+29.95,40.0026,"10,05 €",-1.005%,https://jugamosotra.com/1-4-jugadores/4046-greenland-third-edition.html,Greenland (Third Edition)
+24.95,39.9542,"15,00 €",-1.500%,https://jugamosotra.com/2-5-jugadores/1787-oilfield.html,Oilfield
+5.95,12.947,"7,00 €",-700%,https://jugamosotra.com/2-6-jugadores/3833-bohnanza-de-las-galaxias.html,Bohnanza de las Galaxias
+9.95,21.9494,"12,00 €",-1.200%,https://jugamosotra.com/2-4-jugadores/1661-kiwis-voladores.html,Kiwis Voladores
+34.95,44.9515,"10,00 €",-1.000%,https://jugamosotra.com/2-5-jugadores/3830-citrus-new-landscape-tiles.html,Citrus + New Landscape Tiles
+64.96,112.5058,"47,55 €",-4.755%,https://jugamosotra.com/2-jugadores/3824-dice-masters-the-mighty-thor-gravity-feed-90-sobres.html,Dice Masters The Mighty Thor Gravity Feed (90 sobres)
+15.95,24.9502,"9,00 €",-900%,https://jugamosotra.com/2-10-jugadores/3823-fun-farm.html,Fun Farm
+24.95,49.9972,"25,05 €",-2.505%,https://jugamosotra.com/juegos/3813-shipwrights-of-the-north-sea.html,Shipwrights of the North Sea
+39.96,59.9555,"20,00 €",-2.000%,https://jugamosotra.com/2-4-jugadores/3811-broadhorns-early-trade-on-the-mississippi.html,Broadhorns: Early Trade on the Mississippi
+24.95,39.9542,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/3810-okanagan.html,Okanagan
+29.95,54.9461,"25,00 €",-2.500%,https://jugamosotra.com/juegos/3809-a-tale-of-pirates.html,A tale of Pirates
+19.95,29.9475,"10,00 €",-1.000%,https://jugamosotra.com/2-4-jugadores/3808-axio-ingles.html,Axio (Inglés)
+24.95,49.9972,"25,05 €",-2.505%,https://jugamosotra.com/1-4-jugadores/3806-explorers-of-the-north-sea.html,Explorers of the North Sea
+9.95,24.9986,"15,05 €",-1.505%,https://jugamosotra.com/2-4-jugadores/3805-the-north-sea-runesaga.html,The North Sea Runesaga
+29.95,58.9996,"29,05 €",-2.905%,https://jugamosotra.com/2-4-jugadores/3804-welcome-to-centerville.html,Welcome to Centerville
+20.95,29.9475,"9,00 €",-900%,https://jugamosotra.com/juegos-para-grupos-de-jugadores/3801-kubb-in-a-box.html,Kubb in a Box
+34.95,54.9461,"20,00 €",-2.000%,https://jugamosotra.com/2-5-jugadores/3798-exodus-fleet.html,Exodus Fleet
+19.94,39.9421,"20,00 €",-2.000%,https://jugamosotra.com/2-5-jugadores/3797-olympos.html,Olympos
+44.99,84.9904,"40,00 €",-4.000%,https://jugamosotra.com/1-4-jugadores/3796-vengeance.html,Vengeance
+7.46,14.9556,"7,50 €",-750%,https://jugamosotra.com/3-6-jugadores/3795-pot-the-vin.html,Pot the Vin (Inglés)
+24.95,44.9999,"20,05 €",-2.005%,https://jugamosotra.com/2-4-jugadores/3794-pie-town.html,Pie Town
+12.95,20.0013,"7,05 €",-705%,https://jugamosotra.com/2-jugadores/3791-battles-of-the-warrior-queen.html,Battles of The Warrior Queen
+11.95,20.0013,"8,05 €",-805%,https://jugamosotra.com/2-4-jugadores/3789--covalence-a-molecule-building-game.html,Covalence: A Molecule Building Game
+29.95,44.9515,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/3788-transatlantic.html,Transatlantic
+34.95,56.9547,"22,00 €",-2.200%,https://jugamosotra.com/1-4-jugadores/3787-minerva.html,Minerva
+19.94,34.9448,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/3784-feuville.html,Feuville
+17.95,44.9515,"27,00 €",-2.700%,https://jugamosotra.com/2-4-jugadores/3781-mafiozoo.html,Mafiozoo (Inglés)
+32.95,44.9515,"12,00 €",-1.200%,https://jugamosotra.com/2-4-jugadores/1822-papa-paolo.html,Papa Paolo
+34.95,49.9488,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/2985-merlin.html,Merlin
+29.95,49.9972,"20,05 €",-2.005%,https://jugamosotra.com/2-4-jugadores/3205-xi-an.html,Xi'an
+19.94,34.9448,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/3778-favelas.html,Favelas
+17.95,26.9951,"9,05 €",-905%,https://jugamosotra.com/2-4-jugadores/3759-51-state.html,51 State
+14.95,29.9475,"15,00 €",-1.500%,https://jugamosotra.com/3-5-jugadores/3749-vienna.html,Vienna
+24.96,42.955,"18,00 €",-1.800%,https://jugamosotra.com/2-4-jugadores/3735-manhattan.html,Manhattan (Castellano)
+22.95,29.9475,"7,00 €",-700%,https://jugamosotra.com/2-4-jugadores/2418-viking-gone-wild.html,Viking Gone Wild
+24.96,59.9555,"35,00 €",-3.500%,https://jugamosotra.com/2-4-jugadores/3705-valetta.html,Valletta
+19.95,29.9475,"10,00 €",-1.000%,https://jugamosotra.com/2-4-jugadores/3696-rondo.html,RONDO
+19.96,35.0053,"15,05 €",-1.505%,https://jugamosotra.com/2-4-jugadores/213-beowulf.html,Beowulf
+24.96,35.0053,"10,05 €",-1.005%,https://jugamosotra.com/2-5-jugadores/1855-oceanos.html,Océanos
+29.95,44.95,"15,00 €",-1.500%,https://jugamosotra.com/3-6-jugadores/1796-yo-soy-el-jefe.html,Yo Soy el Jefe
+24.95,46.0042,"21,05 €",-2.105%,https://jugamosotra.com/2-4-jugadores/3661-the-arrival.html,The Arrival
+19.96,35.0053,"15,05 €",-1.505%,https://jugamosotra.com/2-4-jugadores/3660-carthago-merchants-guilds.html,Carthago: Merchants & Guilds
+19.95,44.9515,"25,00 €",-2.500%,https://jugamosotra.com/2-4-jugadores/876-ships.html,Ships
+48.95,69.9985,"21,05 €",-2.105%,https://jugamosotra.com/1-6-jugadores/3042-charterstone.html,Charterstone
+19.95,64.9528,"45,00 €",-4.500%,https://jugamosotra.com/2-4-jugadores/3306-zombies-15-.html,Zombies 15'
+39.95,65.0012,"25,05 €",-2.505%,https://jugamosotra.com/2-4-jugadores/2963-agra.html,Agra (Inglés)
+19.95,29.9959,"10,05 €",-1.005%,https://jugamosotra.com/2-4-jugadores/3542-bali.html,Bali (Inglés)
+12.45,24.9986,"12,55 €",-1.255%,https://jugamosotra.com/2-4-jugadores/2364-yangtze.html,Yangtze
+19.95,39.9542,"20,00 €",-2.000%,https://jugamosotra.com/1-6-jugadores/1642-pandemic-en-el-laboratorio.html,Pandemic En el Laboratorio
+39.95,58.9512,"19,00 €",-1.900%,https://jugamosotra.com/2-4-jugadores/3438-space-freaks.html,Space Freaks
+15.95,19.9529,"4,00 €",-400%,https://jugamosotra.com/juegos/2955-wir-sind-das-volk-22.html,Wir sind das Volk!: 2+2
+19.95,30.9518,"11,00 €",-1.100%,https://jugamosotra.com/2-jugadores/3434-punct.html,PÜNCT
+44.96,59.9555,"15,00 €",-1.500%,https://jugamosotra.com/3-8-jugadores/3248--vivajava-the-coffee-game.html,VivaJava: The Coffee Game
+19.95,39.9542,"20,00 €",-2.000%,https://jugamosotra.com/3-4-jugadores/492-inkognito.html,Inkógnito
+19.95,26.9951,"7,05 €",-705%,https://jugamosotra.com/2-4-jugadores/158-san-juan.html,San Juan
+34.96,80.0052,"45,05 €",-4.505%,https://jugamosotra.com/3-5-jugadores/1728-seafall.html,Seafall
+19.95,39.9542,"20,00 €",-2.000%,https://jugamosotra.com/2-4-jugadores/3411-enclave.html,Enclave
+44.95,89.9514,"45,00 €",-4.500%,https://jugamosotra.com/3-5-jugadores/1720-colosseum.html,Colosseum
+14.95,21.9978,"7,05 €",-705%,https://jugamosotra.com/2-4-jugadores/3357-king-frog.html,King Frog
+19.94,34.9448,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/3346-edenia.html,Edenia
+39.94,62.9442,"23,00 €",-2.300%,https://jugamosotra.com/2-jugadores/3336-wartime-the-battle-of-valyance-vale.html,Wartime: The Battle of Valyance Vale
+16.95,24.9502,"8,00 €",-800%,https://jugamosotra.com/2-5-jugadores/3333-beeeees.html,Beeeees
+19.95,29.9475,"10,00 €",-1.000%,https://jugamosotra.com/2-5-jugadores/3332-menu-masters.html,Menu Masters
+24.96,80.0052,"55,05 €",-5.505%,https://jugamosotra.com/3-5-jugadores/3322-seafall.html,Seafall (Inglés)
+14.95,22.9537,"8,00 €",-800%,https://jugamosotra.com/2-jugadores/3327-dice-masters-superman-and-wonder-woman-starter.html,Dice Masters Superman and Wonder Woman Starter
+19.95,39.9542,"20,00 €",-2.000%,https://jugamosotra.com/2-4-jugadores/3326-ars-alchimia.html,Ars Alchimia
+14.95,39.9542,"25,00 €",-2.500%,https://jugamosotra.com/2-8-jugadores-/1384-knit-wit.html,Knit Wit
+24.95,49.9488,"25,00 €",-2.500%,https://jugamosotra.com/2-5-jugadores/3325-king-chocolate.html,King Chocolate
+39.95,74.9474,"35,00 €",-3.500%,https://jugamosotra.com/2-4-jugadores/3323-escape-zombie-city-big-box.html,Escape: Zombie City Big Box (Con arruguita)
+24.95,38.9499,"14,00 €",-1.400%,https://jugamosotra.com/2-6-jugadores/3304-around-the-world-in-80-days.html,Around The World In 80 Days
+28.95,38.9499,"10,00 €",-1.000%,https://jugamosotra.com/2-5-jugadores/3302-king-s-road.html,King's Road
+15.95,22.9537,"7,00 €",-700%,https://jugamosotra.com/2-4-jugadores/3301-nimbee.html,Nimbee
+8.95,15.9478,"7,00 €",-700%,https://jugamosotra.com/2-8-jugadores-/3300-pairs-deluxe-edition.html,Pairs  Deluxe Edition
+17.95,43.9472,"26,00 €",-2.600%,https://jugamosotra.com/2-5-jugadores/3265-alba-longa.html,Alba Longa
+24.95,60.0039,"35,05 €",-3.505%,https://jugamosotra.com/2-6-jugadores/3264-world-control.html,World Control
+9.94,17.9443,"8,00 €",-800%,https://jugamosotra.com/2-4-jugadores/3262-antagonism.html,Antagonism
+11.95,39.9542,"28,00 €",-2.800%,https://jugamosotra.com/2-5-jugadores/3222-kagnag.html,Karnag
+9.95,16.9521,"7,00 €",-700%,https://jugamosotra.com/2-jugadores/3221-the-blood-of-an-englishman.html,The Blood of an Englishman
+19.94,34.9448,"15,00 €",-1.500%,https://jugamosotra.com/2-jugadores/3218-seven-swords.html,SEVEN SWORDS
+29.95,60.0039,"30,05 €",-3.005%,https://jugamosotra.com/2-jugadores/3217-dragon-rage.html,Dragon Rage
+14.95,29.9475,"15,00 €",-1.500%,https://jugamosotra.com/1-4-jugadores/3216-card-city-xl.html,Card City XL
+34.95,47.9523,"13,00 €",-1.300%,https://jugamosotra.com/2-4-jugadores/3207-twilight-of-the-gods.html,Twilight of the Gods
+49.95,69.9501,"20,00 €",-2.000%,https://jugamosotra.com/2-5-jugadores/2853-catacombs-3-edicion.html,Catacombs and Castles
+22.95,38.9499,"16,00 €",-1.600%,https://jugamosotra.com/2-4-jugadores/3202-nippon-rails.html,Nippon Rails
+22.95,43.9956,"21,05 €",-2.105%,https://jugamosotra.com/2-6-jugadores/3201-china-rails.html,China Rails
+18.95,32.9967,"14,05 €",-1.405%,https://jugamosotra.com/2-4-jugadores/3200-empire-express.html,Empire Express
+14.94,34.9448,"20,00 €",-2.000%,https://jugamosotra.com/2-5-jugadores/3199-urbania.html,Urbania
+22.95,35.9491,"13,00 €",-1.300%,https://jugamosotra.com/2-6-jugadores/3198-india-rails.html,India Rails
+14.96,28.9553,"14,00 €",-1.400%,https://jugamosotra.com/2-jugadores/1820-starfighter.html,Starfighter
+22.95,43.9472,"21,00 €",-2.100%,https://jugamosotra.com/3-5-jugadores/3189-spoils-of-war.html,Spoils of War
+17.96,45.9558,"28,00 €",-2.800%,https://jugamosotra.com/2-5-jugadores/3188-quebec.html,Québec
+19.94,34.9448,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/3067--atari-centipede.html,Atari: Centipede
+14.94,62.9926,"48,05 €",-4.805%,https://jugamosotra.com/2-4-jugadores/3066-coal-country.html,Coal Country
+22.95,44.9515,"22,00 €",-2.200%,https://jugamosotra.com/3-4-jugadores/655-infamy.html,Infamy
+17.95,27.951,"10,00 €",-1.000%,https://jugamosotra.com/2-6-jugadores/682-voila.html,Voilà!
+14.95,20.0013,"5,05 €",-505%,https://jugamosotra.com/2-5-jugadores/1875-walking-on-the-moon.html,Walking on the moon + March on Mars
+14.95,44.9515,"30,00 €",-3.000%,https://jugamosotra.com/3-6-jugadores/2308-age-of-soccer.html,Age of Soccer
+9.95,29.9475,"20,00 €",-2.000%,https://jugamosotra.com/3-4-jugadores/2920-le-siecle-d-or.html,BF Le Siècle d'Or
+14.95,29.9475,"15,00 €",-1.500%,https://jugamosotra.com/2-5-jugadores/1575-costa-rica-reveal-the-rainforest.html,Costa Rica: Reveal the  Rainforest!
+21.95,39.9542,"18,00 €",-1.800%,https://jugamosotra.com/2-4-jugadores/2805-planes.html,Planes
+29.95,46.948,"17,00 €",-1.700%,https://jugamosotra.com/2-6-jugadores/2785-the-scepter-of-zavandor.html,The Scepter of Zavandor
+9.95,19.9529,"10,00 €",-1.000%,https://jugamosotra.com/2-jugadores/2522-dice-masters-iron-man-and-war-machine-starter-set.html,Dice Masters: Iron Man and War Machine Starter Set
+20.95,40.9464,"20,00 €",-2.000%,https://jugamosotra.com/2-4-jugadores/2520-project-mars.html,Project Mars
+24.96,59.9555,"35,00 €",-3.500%,https://jugamosotra.com/1-4-jugadores/2516-colony.html,Colony
+19.95,39.9542,"20,00 €",-2.000%,https://jugamosotra.com/1-4-jugadores/2102-apotheca.html,Apotheca
+25.94,34.9448,"9,00 €",-900%,https://jugamosotra.com/2-4-jugadores/2368-dokmus.html,Dokmus
+7.45,9.9462,"2,50 €",-250%,https://jugamosotra.com/2-jugadores/2367-elements.html,Elements
+14.95,29.9475,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/2326-beyond-baker-street.html,Beyond Baker Street
+34.95,69.9501,"35,00 €",-3.500%,https://jugamosotra.com/2-4-jugadores/2301-airlines-limited-edition.html,Airlines Limited Edition
+15.95,19.9529,"4,00 €",-400%,https://jugamosotra.com/2-jugadores/2299-dice-masters-age-of-ultron.html,Dice Masters Age of Ultron
+14.95,20.9451,"6,00 €",-600%,https://jugamosotra.com/2-jugadores/1588-dice-masters-world-finest-starter.html,Dice Masters World Finest Starter
+14.95,19.9529,"5,00 €",-500%,https://jugamosotra.com/2-jugadores/2298-dice-masters-war-of-light-starter.html,Dice Masters War of Light Starter
+14.94,31.944,"17,00 €",-1.700%,https://jugamosotra.com/2-4-jugadores/2078-super-vampire.html,Super Vampire
+19.95,39.9542,"20,00 €",-2.000%,https://jugamosotra.com/2-4-jugadores/2075-for-crown-and-kingdom.html,For Crown and Kingdom
+17.94,34.9448,"17,00 €",-1.700%,https://jugamosotra.com/3-5-jugadores/2074-mogul.html,Mogul
+14.95,29.9475,"15,00 €",-1.500%,https://jugamosotra.com/2-6-jugadores/2072-exposed.html,Exposed
+20.95,29.9475,"9,00 €",-900%,https://jugamosotra.com/inicio/2071-perfect-alibi.html,Perfect Alibi
+24.95,49.9488,"25,00 €",-2.500%,https://jugamosotra.com/2-5-jugadores/2070-morocco.html,Morocco
+19.94,34.9448,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/2066-circular-reasoning.html,Circular Reasoning
+19.95,44.9515,"25,00 €",-2.500%,https://jugamosotra.com/2-4-jugadores/1337-foragers.html,Foragers
+74.96,112.5058,"37,55 €",-3.755%,https://jugamosotra.com/2-jugadores/2002-dice-masters-wart-of-light-gravity-feed-90-sobres.html,Dice Masters War Of Light Gravity Feed (90 sobres)
+15.95,35.9491,"20,00 €",-2.000%,https://jugamosotra.com/1-6-jugadores/1999-meteor.html,Meteor
+9.95,20.9451,"11,00 €",-1.100%,https://jugamosotra.com/2-jugadores/1983-dice-masters-the-amazing-spiderman-starter.html,Dice Masters The Amazing Spiderman Starter
+44.95,91.950001,"47,00 €",-4.700%,https://jugamosotra.com/2-jugadores/1957-dice-masters-world-finest-gravity-feed-90-sobres.html,Dice Masters World Finest Gravity Feed (90 sobres)
+4.95,14.95,"10,00 €",-1.000%,https://jugamosotra.com/2-jugadores/1918-soccer-city-expansion-leyendas.html,Soccer City Expansión Leyendas
+12.95,16.949999,"4,00 €",-400%,https://jugamosotra.com/2-6-jugadores/858-capitan-flint.html,Capitán Flint
+9.95,15.004,"5,05 €",-505%,https://jugamosotra.com/accesorios/1899-torre-de-dados-slim-angel-knight.html,Torre de dados Slim Angel Knight
+9.95,15.004,"5,05 €",-505%,https://jugamosotra.com/accesorios/1898-torre-de-dados-slim-angel-of-death.html,Torre de dados Slim Angel of Death
+13.95,19.9529,"6,00 €",-600%,https://jugamosotra.com/accesorios/1896-torre-de-dados-cuboid-angel-of-death.html,Torre de dados Cuboid -Angel of Death
+9.95,15.004,"5,05 €",-505%,https://jugamosotra.com/accesorios/1894-torre-de-dados-slim-doom-bringer.html,Torre de dados Slim Doom Bringer
+9.95,15.004,"5,05 €",-505%,https://jugamosotra.com/accesorios/1893-torre-de-dados-slim-war.html,Torre de dados Slim War
+14.94,31.944,"17,00 €",-1.700%,https://jugamosotra.com/2-4-jugadores/1841-monuments-wonders-of-antiquity.html,Monuments: Wonders of Antiquity
+4.96,14.9556,"10,00 €",-1.000%,https://jugamosotra.com/2-6-jugadores/1879-unter-geiern.html,Unter Geiern
+12.95,29.9475,"17,00 €",-1.700%,https://jugamosotra.com/3-10-jugadores/1867-co-mix.html,Co-Mix (Inglés)
+4.96,14.9556,"10,00 €",-1.000%,https://jugamosotra.com/2-8-jugadores-/1869-bongo.html,Bongo!
+21.94,34.9448,"13,00 €",-1.300%,https://jugamosotra.com/2-4-jugadores/1792-storytelling.html,Storytelling
+19.96,42.955,"23,00 €",-2.300%,https://jugamosotra.com/3-4-jugadores/1705-london-markets.html,London Markets (Dschunke)
+14.94,34.9448,"20,00 €",-2.000%,https://jugamosotra.com/2-4-jugadores/1695-hexemonia.html,Hexemonia
+19.96,45.9558,"26,00 €",-2.600%,https://jugamosotra.com/2-5-jugadores/754-mil-1049.html,MIL (1049)
+25.96,59.9555,"34,00 €",-3.400%,https://jugamosotra.com/2-5-jugadores/1576-pay-dirt.html,Pay Dirt
+14.95,23.9459,"9,00 €",-900%,https://jugamosotra.com/1-4-jugadores/692-ophiuchus-the-thirteenth-constellation.html,Ophiuchus: The Thirteenth Constellation
+10.01,22.9053,"12,90 €",-1.290%,https://jugamosotra.com/juegos/693-sukkube.html,Sukkube
+14.95,29.9475,"15,00 €",-1.500%,https://jugamosotra.com/2-4-jugadores/1496--my-happy-farm.html,My Happy Farm
+39.95,54.9461,"15,00 €",-1.500%,https://jugamosotra.com/2-jugadores/1501-kasparov-championship-chess-set.html,Kasparov Championship Chess Set
