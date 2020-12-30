@@ -1,8 +1,4 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/node
-# Edit at https://www.toptal.com/developers/gitignore?templates=node
-
-### Node ###
 # Logs
 logs
 *.log
@@ -76,11 +72,17 @@ typings/
 # dotenv environment variables file
 .env
 .env.test
+<<<<<<< HEAD
 .env*.local
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
+=======
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+>>>>>>> b3acc501d7ee1cab0066a2df897deea6d63045c7
 
 # Next.js build output
 .next
@@ -91,7 +93,11 @@ dist
 
 # Gatsby files
 .cache/
+<<<<<<< HEAD
 # Comment in the public line in if your project uses Gatsby and not Next.js
+=======
+# Comment in the public line in if your project uses Gatsby and *not* Next.js
+>>>>>>> b3acc501d7ee1cab0066a2df897deea6d63045c7
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
@@ -109,6 +115,7 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
